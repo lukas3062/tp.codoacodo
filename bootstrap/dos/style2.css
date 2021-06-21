@@ -1,0 +1,18 @@
+form{
+  width: 50%;
+  padding-top: 100px;
+}
+.separador{
+  width: 90%;
+  height: 1px;
+  background: gray;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.margen{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.form-check{
+  margin-bottom: 0px;
+}

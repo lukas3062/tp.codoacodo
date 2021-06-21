@@ -1,0 +1,11 @@
+.boton{
+  float: left;
+  border: 1px solid gray;
+  padding: 5px;
+  font-size: 12px;
+  text-decoration: none;
+  color: gray;
+}
+.tiempo{
+  float: right;
+}
